@@ -22,5 +22,28 @@
 		
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Introducing Let's Talk About It</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/LTAI/LTAI_S01_00_Trailer1.mp3' length='1233731' type='audio/mpeg'/>
+			<guid>2023-06-13-Trailer1</guid>
+            <pubDate>Tue, 13 Jun 2023 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>Introducing Let’s Talk About It, a wide ranging sports podcast with a sprinkle of pop culture thrown into the mix. Join Max Adams and his fellow insiders as they cover the national sports and trending entertainment news world and its headlines through their lenses. Your next favorite sports personalities are here, why don’t we talk about it?</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/letstalkpodhtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>51</itunes:duration>
+            <link>https://lets-talk-about-it.hightops.media//2023/06/13/Trailer1/</link>
+			<itunes:image href='https://lets-talk-about-it.hightops.media//assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
     </channel>
 </rss>
