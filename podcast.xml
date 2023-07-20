@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>NBA Free Agency, MLB All-Star Week, and UFC 290</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/LTAI/LTAI_S01_04_NBA-Free-Agency.mp3' length='159119912' type='audio/mpeg'/>
+			<guid>2023-07-20-NBA-Free-Agency</guid>
+            <pubDate>Thu, 20 Jul 2023 02:00:00 -0400</pubDate>
+            <description><![CDATA[<p>What it says in the title is what you get. Recaps from Max and his mixed and matched panel this week will break down everything NBA free agency, everything MLB all star, and some news from the MMA world too. You’re not going to want to miss out on the 4th episode of LTAI!</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/letstalkpodhtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>11561</itunes:duration>
+            <link>https://lets-talk-about-it.hightops.media//2023/07/20/NBA-Free-Agency/</link>
+			<itunes:image href='https://lets-talk-about-it.hightops.media//assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>History at the Coliseum, and the Calm Before the Storm in the NBA</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/LTAI/LTAI_S01_03_History-at-the-Coliseum.mp3' length='157799576' type='audio/mpeg'/>
 			<guid>2023-07-04-History-at-the-Coliseum</guid>
